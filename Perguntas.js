@@ -35,37 +35,50 @@ criaCartao(
 )
 
 criaCartao(
-    'química',
-    'Qual o nome popular do cloreto de sódio?',
-    'sal de cozinha'
+    'História',
+    'Em que ano os navegadores portugueses chegaram ao Brasil pela primeira vez?',
+    '1500'
 )
 
 criaCartao(
-    'química',
-    'Qual o nome popular do cloreto de sódio?',
-    'sal de cozinha'
+    'Conhecimentos gerais',
+    'Por qual apelido ficou conhecido o jogador de futebol Edson Arantes?',
+    'Pelé'
 )
 
 criaCartao(
-    'química',
-    'Qual o nome popular do cloreto de sódio?',
-    'sal de cozinha'
+    'Conhecimentos gerais',
+    'Em geral, quantos dentes tem uma pessoa adulta?',
+    '32 dentes'
 )
 
 criaCartao(
-    'química',
-    'Qual o nome popular do cloreto de sódio?',
-    'sal de cozinha'
+    'conhecimento gerais',
+    'O que mede o ano-luz?',
+    'distância'
+)
+
+
+criaCartao(
+    'História',
+    'Quem foi o primeiro presidente negro dos Estados Unidos?',
+    'Barack Obama.'
 )
 
 criaCartao(
-    'química',
-    'Qual o nome popular do cloreto de sódio?',
-    'sal de cozinha'
+    'conhecimentos gerais',
+    'O que é mais pesado: 1 quilo de algodão ou 1 quilo de ferro?',
+    'Os dois pesam 1 quilo'
 )
 
 criaCartao(
-    'química',
-    'Qual o nome popular do cloreto de sódio?',
-    'sal de cozinha'
+    'geográfia',
+    'Que país tem o formato de uma bota?',
+    'Itália'
+)
+
+criaCartao(
+    'conhecimentos gerais',
+    ' Quantos são os personagens principais do seriado norte-americano Friends?',
+    'seis'
 )
