@@ -19,15 +19,15 @@ criaCartao(
 )
 
 criaCartao(
-    'arte',
-    ' Quem pintou a Mona Lisa?',
+    'Arte',
+    'Quem pintou a Mona Lisa?',
     'Leonardo da Vinci'
 )
 
 criaCartao(
-    'química',
+    'Química',
     'Qual o nome popular do cloreto de sódio?',
-    'sal de cozinha'
+    'Sal de cozinha'
 )
 
 criaCartao(
@@ -49,9 +49,9 @@ criaCartao(
 )
 
 criaCartao(
-    'conhecimento gerais',
+    'Conhecimento gerais',
     'O que mede o ano-luz?',
-    'distância'
+    'Distância'
 )
 
 
@@ -62,19 +62,19 @@ criaCartao(
 )
 
 criaCartao(
-    'conhecimentos gerais',
+    'Conhecimentos gerais',
     'O que é mais pesado: 1 quilo de algodão ou 1 quilo de ferro?',
     'Os dois pesam 1 quilo'
 )
 
 criaCartao(
-    'geográfia',
+    'Geográfia',
     'Que país tem o formato de uma bota?',
     'Itália'
 )
 
 criaCartao(
-    'conhecimentos gerais',
-    ' Quantos são os personagens principais do seriado norte-americano Friends?',
-    'seis'
+    'Conhecimentos gerais',
+    'Quantos são os personagens principais do seriado norte-americano Friends?',
+    'Seis'
 )
